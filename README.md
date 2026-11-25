@@ -1,5 +1,5 @@
 # TemporalLit
-Unity 2D game, it's a mix between geometry dash and an infinite runner game.
+Unity 2D game, infinite runner. It's a Geometry Dash with an infinite runner mechanic.
 
 # Instructions
 Extract .zip and double click .exe
